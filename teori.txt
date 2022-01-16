@@ -1,0 +1,10 @@
+menggunakan .Net Core
+- database menggunakan sql server karena saya disini menggunakan .NET Core yang dimana keduanya sama-sama product dari microsoft
+- sql server juga terdapat fitur recovery dan restore data.
+-.NET Core karena salah satu framework web dari Microsoft yang open source dan multi-platform os artinya.NET Core tidak hanya bisa 
+	berjalan di Windows tetapi bisa juga
+	di sistem operasi Linux maupun macOS.
+-.NET Core juga sudah mendukung dependency injection untuk micro services.
+
+kebutuhan lain restoran:
+-aplikasi bisa menambahkan/menghapus menu makanan
